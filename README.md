@@ -1,4 +1,4 @@
 # Examplerepo
-An example github repository for pactice
+An example github repository for practice
 <br>
-created by Anil Billupati
+Created by Anil Billupati
